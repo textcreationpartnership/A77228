@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the strange apparitions seen in the air, on Monday 25. February, in and about the town of Bolton in the Mores, in the county of Lancaster at mid-day, to the amazement of the beholders. / Being a letter sent from Ellis Bradshaw of the same town, to a friend in London, with observations thereupon, what probably they may signifie, and what use may be made thereof.</title>
+            <author>Bradshaw, Ellis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77228</idno>
+            <idno type="STC">Wing B4149</idno>
+            <idno type="STC">Thomason E594_18</idno>
+            <idno type="STC">ESTC R206924</idno>
+            <idno type="EEBO-CITATION">99866012</idno>
+            <idno type="PROQUEST">99866012</idno>
+            <idno type="VID">165558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165558)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E594[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the strange apparitions seen in the air, on Monday 25. February, in and about the town of Bolton in the Mores, in the county of Lancaster at mid-day, to the amazement of the beholders. / Being a letter sent from Ellis Bradshaw of the same town, to a friend in London, with observations thereupon, what probably they may signifie, and what use may be made thereof.</title>
+                  <author>Bradshaw, Ellis.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Brewster and Gregory Moule, and are to be sold at the three Bibles in the Poultry, under Mildreds Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 5 1649"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apparitions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165558:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION Of the Strange APPARITIONS Seen in the Air, on <hi>Monday</hi> 25, <hi>February,</hi> in and about the Town of <hi>Bolton</hi> in the Mores, in the County of <hi>Lancaſter</hi> at mid-day, to the amazement of the Beholders.</p>
+            <p>Being a LETTER ſent from <hi>ELLIS BRADSHAW</hi> OF THE Same Town, to a Friend in <hi>London,</hi> WITH OBSERVATIONS Thereupon, what probably they may ſignifie, and what Uſe may be made thereof.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Brewſter</hi> and <hi>Gregory Moule,</hi> and are to be ſold at the three Bibles in the <hi>Poultry,</hi> un<g ref="char:EOLhyphen"/>der <hi>Mildreds</hi> Church, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:165558:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here hath appeared to us ſuch viſible characters of the Infinite power here, of the mighty, miraculous, and clear Demonſtration of the hand of God, which as viſible ſignes of his inviſible Power, and of his Will and Decree, he hath held forth to us perſpicuouſly and apparantly in the open ſight of all beholders, that did but lift up their eyes to be<g ref="char:EOLhyphen"/>hold the ſame in the azure Skie, that the like hath not been ſeen in any Age, that is as yet recorded in any Hiſtory that I have ever read or heard of, either here, or in any Kingdom: And though, it may be, that the ſame was viſible as well with you, as in our horizon, yet be<g ref="char:EOLhyphen"/>cauſe we know not how far it appeared, as it did unto us, I could do no leſs then write the Relation of ſuch ſtrange Apparitions, in regard the publiſhing thereof, if you think it convenient, might greatly tend to the glory of God, and the good of all thoſe that deſire to obſerve, and to conſider the operations of his mighty hand, which he holdeth forth as a warning to us, of ſome great thing that he is about, and hath fully determined to bring to paſs within a ſhort time, even in this our Nation, if not in this our County, to whom this Ap<g ref="char:EOLhyphen"/>parition was miraculouſly viſible. However it appeared, or whether it appeared or no unto other people, for we cannot tell; and there<g ref="char:EOLhyphen"/>fore if it be no news nor ſtrange unto you, it may well excuſe me for writing of it, that if it be news you might know it firſt, and ſo declare it firſt, if you think good, as I ſhall here relate it, and deſcant upon it, what it may poſsibly ſignifie, according to my ap<g ref="char:EOLhyphen"/>prehenſion.</p>
+            <p>The thing was thus, Yeſterday being <hi>Munday, February</hi> 25. 1650. being our Market day at <hi>Bolton</hi> in the Mores in the County of <hi>Lan<g ref="char:EOLhyphen"/>caſter,</hi>
+               <pb n="3" facs="tcp:165558:2"/>betwixt ten and twelve of the clock, and much of that time there appeared to us, yea to all in the Town, or in the way thither, that look ſo high, A white Circle, compaſsing directly from the glo<g ref="char:EOLhyphen"/>rious Sun ſhining in his ſtrength, (the Skie being clear, and not over<g ref="char:EOLhyphen"/>ſpread with clouds, or miſt, &amp;c.) ſtraight into the North, as it were of a levell height, with the height of the Sun, compaſſing round to the Sun again, as if it had been a wall, and the Sun a Poſtern in the ſide of it. And beſides the true Sun, there appeared alſo a great way diſtant on either ſide the Sun, a bright place in the aforeſaid Circle, not unlike in greatneſs to the true Sun, but not ſo bright nor for<g ref="char:EOLhyphen"/>mable, but rather red and changeable, eſpecially at its vaniſhing; like part of a bright Rainbow, or as we call them, Weather-Galls, though far brighter, and more clear and ſplendrous to all beholders when they were at brighteſt. There appeared alſo in the Northern parts of the ſame Circle, two other likewiſe, which like bright pla<g ref="char:EOLhyphen"/>ces of the ſame colour, but not ſo bright and ſplendrous: All which four were ſet directly in the white Circle, like ſo many Poſtern Towers in the walls of a City, a great way diſtant each from other,</p>
+            <p>There appeared likewiſe directly over our heads, two fair Rain<g ref="char:EOLhyphen"/>bows in the clear Skie, the one tending with either end of it, to<g ref="char:EOLhyphen"/>wards the two bright places, that were next to the Sun, though they did not reach them. And the other tending with both its ends, as directly pointing to the other two places, that were in the Nor<g ref="char:EOLhyphen"/>thern parts of the white Circle, that ſhined alſo as hath been ſaid; So that theſe two Rain-bows, that were directly over our heads, ten<g ref="char:EOLhyphen"/>ded with their backs together, and their ends directly one from the other; the one Southwards, and the other Northwards; the one as inclining to embrace the Sun, and the other to embrace the North Pole.</p>
+            <p>All theſe viſible Apparitions continued a great while, ſome ſay two hours, but of the certain time I am not certain, for I ſaw them not at firſt: but I ſaw them vaniſh by degrees away, beginning in the North; for the North-ſide of the white Circle began to vaniſh firſt, and then the two bright places in the North of the Circle did alſo firſt vaniſh before the other, and ſo alſo did the North Rainbow, and then by degrees the other alſo, ſo that the nearer to the Sun, was the longer viſible, not only of the Rain-bows, but of the bright places, and of the white Circle.</p>
+            <p>From all which viſible appearances, if I may not ſeem over-bold
+<pb n="4" facs="tcp:165558:3"/>and preſumptuous, being but ſuch a man: I ſhall deſire to deſcant, and conclude thus far, as my own apprehenſions, what theſe things mean, or at leaſt, what uſe we had beſt to make of ſuch ſtrange viſi<g ref="char:EOLhyphen"/>ons and ſigns in the Heavens, as are ſo frequently ſeen in theſe days of ours in our own horizon, and by our own eyes.</p>
+            <p>And firſt then, in my apprehenſion, Theſe viſible Apparitions are held forth to us, as admonitions of ſome great diſpleaſure, and of wrath kindled, that muſt be executed in its time and ſeaſon.</p>
+            <p>And that eſpecially againſt all ſuch, who have laid aſide their Co<g ref="char:EOLhyphen"/>venant-Engagement, whereby they were united each to other, and joyntly bound in their places and callings, even to the Lord himſelf, to ſeek and indeavour a full Reformation both in Church and State, according to the word of God, and not to their own inventions, nor as might beſt ſerve for their own intereſts, nor the intereſts of others, either Civill or Eccleſiaſtick: For in ſo doing, we lay aſide our Co<g ref="char:EOLhyphen"/>venant and the Intereſt of God, who hath hitherto ſaved us from our common Adverſaries.</p>
+            <p>And therefore, it is obſervable, that theſe two Rainbows were not ſet in the Skie directly upwards in the uſuall manner arch-wiſe, but they were both in appearance to us as laid aſide, like two fallen arches, and that with the backs together, ſo that their four ends were at the furtheſt diſtance each from others that they poſſibly could be; Which may well ſignifie, that if ſuch who have Covenanted ſhall deſert each other, in regard of mutuall aſſiſtance, againſt the com<g ref="char:EOLhyphen"/>mon Enemies of Reformation, they utterly caſt down their ſupport<g ref="char:EOLhyphen"/>ing Arches, and lay aſide their Covenants, ſo that in reſpect of the Ends of our Covenant-Engagement, they utterly fruſtrate their mu<g ref="char:EOLhyphen"/>tuality, and ſet them directly at the furtheſt diſtance each from other that they poſsibly can.</p>
+            <p>For our Covenant-Engagements were chiefly intended for the ſupportation, ſtrengthening, and incouragement of one another, for elſe we had not needed any expreſs Covenant, being already bound in duty unto God, and each to other, before we entred into ſuch Engagements, even by the Law of God, which is the Law of Love, and obligeth deeply unto mutuality in all lawfull things.</p>
+            <p>And I hope no man will ſay that ever any Rainbow was ſet in the Skie, but it ſomething concerned Covenant-Engagement betwixt God and man, for there is no other end Recorded in Scripture; and therefore I dare conclude, that it being always ſet by the hand of God
+<pb n="5" facs="tcp:165558:3"/>by way of <hi>Memento</hi> both to himſelf and us; We ought to conſider theſe viſible mementos and admonitions, and bethink our ſelves ere it be too late, and not turn our backs each from others; for any ſelf-reſpects, or private Intereſt, turning our ends, through ſelf-ends, to their furtheſt diſtance from mutuality, in our common cauſe, to wit (a throughout Reformation.) but to draw if poſſible to a neerer diſtance in our publike ends; and that our Covenant-Engagement might not make us two; but unite us together according to its end, and make as one. That ſo it might be repreſented by the ſign of the Covenant, to wit by one Rain-bow, and that alſo, ſet directly upwards as a ſupporting arch, and not ſo unnaturally by two parts or pieces of a Rain-bow, and thoſe laid aſide, as writhen about and wreſted aſunder each from the other, at the furtheſt diſtance that can be deviſed by the art of man: for juſt ſo we are, as, if time would per<g ref="char:EOLhyphen"/>mit, I could ſhew at large; for there is diviſion, and that moſt ſad and lamentable, even amongſt thoſe who are not only brethren in name and profeſſion, but in nature alſo, yea even truly ſpiritual, and Chriſtian brethren, and that of the very chief and of the moſt emi<g ref="char:EOLhyphen"/>nent in the Church of God, inſomuch that it is to be feared, if they take not warning by theſe viſible Characters, but remain ſtub<g ref="char:EOLhyphen"/>born, and obſtinate therein, it will end in blood, and that of one another; of which theſe are warnings to all that will obſerve.</p>
+            <p>There is cauſe that thoſe diviſions of Ruben ſhould cauſe ſad thoughts of heart.</p>
+            <p>One cals that perjury, and Covenant-breaking, which another count<g ref="char:EOLhyphen"/>eth but the neceſſary keeping of their Solemn Covenant, in bringing Delinquents to condign puniſhment.</p>
+            <p>One cals that murther, which another accounts a Judicial executi<g ref="char:EOLhyphen"/>on of a grand murtherer.</p>
+            <p>One counts it a breaking off the Parliament, which another ac<g ref="char:EOLhyphen"/>counts but a neceſſary reſtraint from inſlaving of the Kingdom, which is their (Lord) as ſome affirm.</p>
+            <p>One proclaimeth a meſſage as from the Lord of Hoſt, which ano<g ref="char:EOLhyphen"/>ther ſaith is a cleer inhibition of his expreſs command, <hi>Numb.</hi> 35.16, 17, 18, 19. to wit, that the revenger of blood himſelf, ſhall ſlay the murtherer, when he meeteth him: ſee alſo, <hi>verſe</hi> 20.21. and 30, 31, 32, 33.</p>
+            <p>One ſeemeth zealous for pious Reformation; and another thinketh that he doth but faſt for ſtrife, and debate, and to ſmite with the fiſt of wickedneſs.</p>
+            <pb n="6" facs="tcp:165558:4"/>
+            <p>One cals that Tyranny, Oppreſſion, Cruelty, Wrong, Perſecution, <hi>&amp;c.</hi> Which another thinks but a neceſſary looſing of the bands of wickedneſs, and an undoing of the heavy burthens, and freeing of the oppreſſed; yea a breaking of every yoke, as <hi>Iſa.</hi> 58.6.</p>
+            <p>Some are conſulting with the Kings of the earth, and the Rulers thereof, againſt ſome men whom they think are plotting to inſnare, and binde them to their own wils.</p>
+            <p>Whereas others think, that ſuch conſultation is againſt the Lord, and againſt his anointed; ſaying, <hi>Let us break their bands aſunder, and caſt away their cords from us;</hi> And that he that ſitteth in Heaven doth but laugh at them, yea that the Lord himſelf, hath them in deriſion. Expecting confidently that yet ere long he will ſpeak unto them in his wrath, and vex them in his diſpleaſure, ſeeing he hath ſet his King upon his holy hill of <hi>Sion,</hi> according to <hi>Iſa.</hi> 14.20, &amp; to 28. Some adviſe the Kings and great men upon earth, to ſtand it out ſtifly, in the maintenance of their Cauſe, and not to ſtoop nor ſubmit their Royal Power, and Royal Authority, to the wils of men; who plead for liberty from all tyrannical oppreſſion, or bondage whatſo<g ref="char:EOLhyphen"/>ever, either Civil or Eccleſiaſtical; And that all might be forced, will they nill they, to ſuch form of Government, as they themſelves in conſcience, ſhall think moſt juſt and agreeable to the Scriptures.</p>
+            <p>But others adviſe them, to be ſo wiſe and learned, as to kiſs the the Son leſt he be angry, and they periſh in his wrath; eſpecially now, when it is a little kindled; yea that they ſhould ſerve him with fear and rejoyce trembling, <hi>Leaſt he break them with a Rod of Iron, and daſh them in pieces like a Potters veſſel,</hi> as Pſal. 2.</p>
+            <p>Some adviſe them to ſerve the Lord, and to Govern, and Rule over his Church and people, in the old manner and form of Govern<g ref="char:EOLhyphen"/>ment. But others adviſe them to bring their glory and honor to the New Jeruſalem, and to ſubmit their Scepters to the Scepter of Chriſt, the Scepter of whoſe Kingdom, is a Scepter of Righteouſneſs, and he the King of kings, and Lord of lords.</p>
+            <p>One affirms that the oath of Allegiance bindes us chiefly to the de<g ref="char:EOLhyphen"/>fence and maintenance of the perſons of Kings, more then their au<g ref="char:EOLhyphen"/>thority, and rather ought to deſtroy his authority, then not defend his perſon. And another ſaith, that his authority ought chiefly to be maintained, yea though directly againſt both his life and eſtate; and that we were tyed by our oath of Allegiance to his Juſt Authority, and not abſtractively to his perſon only, as when acting contrary in a
+<pb n="7" facs="tcp:165558:4"/>deſtructive manner, to his Juſt Authority; And that our Allegiance is no further lawful, then relative to the Kingdom, whereunto even he himſelf was tyed in Allegiance.</p>
+            <p>And again that Allegiance, if relative, bindes no further then ac<g ref="char:EOLhyphen"/>cording to the Laws of relations, and that relations are contractive, and the root of all obligations; which whether natural or other<g ref="char:EOLhyphen"/>wiſe, yet when one party ſhall ſeek the deſtruction of the other, the other may juſtly claime a receſs, ſo far at leſt as abſolute preſervation requires.</p>
+            <p>One alledgeth our Proteſtation, that part of it eſpecially which is for the defence of the Kings perſon, and for the power and priviledge of Parliament.</p>
+            <p>But another alledgeth that the ſentences are complex, and do take in with them, the Kings honor, and eſtate, the defence of the power and priviledges of Parliament, the lawful Rights and Liberties of the Subjects, as well as the perſon of the King.</p>
+            <p>So that if the perſon of the King be engaged againſt the Priviledges of Parliament, and Liberties of the Subjects, yea or the Parliament themſelves plead priviledges, againſt the lawfull rights, and liberties of the Subjects, the proteſtation cannot be obligatory, unto inconſiſtences. The lawful rights and liberties of the ſubjects, being the great end both of the King and Parliament, which they ought to ſeek, and therefore muſt proſtrate both King and Parliament, they having not ſo much as their being, muchleſs priviledges againſt the lawful rights and liberties of the ſubjects; So that by the proteſtation, the greater being (of duty) to be always preferred before the leſs; If either the perſon, or the King, or the priviledges of Parliament, ſtand as a Lyon to devour and deſtroy the Rights and Liberties of the Subjects; we are bound to know neither King nor Parliament, but rather the people, who are the root of them both, ſo that it were better they both ſhould periſh, then the whole body and bulk of the people.</p>
+            <p>Again one ſaith, that our Covenant bindes us to our old form of Government, by Kings, Lords and Commons; and that by Kings Hereditarily, whether they be wiſe or fooliſh, ſo that we muſt have no other, but ſuch, fool or tyrant, or what ever he proves that ſhall be heir to the crown.</p>
+            <p>But another thinks that if we be ſo bound by our vow and Co<g ref="char:EOLhyphen"/>venant or Allegiance either; we have therein done as raſhly and un<g ref="char:EOLhyphen"/>lawfully, as thoſe that bound themſelves with an oath, neither to
+<pb n="8" facs="tcp:165558:5"/>eat nor drink, till they had kill <hi>Paul.</hi> And therefore ſuch an unlaw<g ref="char:EOLhyphen"/>full vow, is better broken then kept, ſeeing it can never be proved from Scripture ground; but that though Kingly Government in it ſelf be lawful, yet to oblige a Nation, to Hereditary Government, be they wiſe, or fooliſh, can never be proved to be either wiſe, or lawful in the ſight of God, nor any rationall man, if men once may chuſe and have power in their hands, through the providence of God, But ought to ſhake of ſuch neceſſary bondage, when they can get power, elſe they are guilty even of ſelf-deſtruction, through their own counſels.</p>
+            <p>And thus our Covenant-Engagment, is parted into two, like the two Rain-bows, and is wreſted, and turned for every mans ends; ſo that the true ends, are removed quite to the greateſt diſtance that poſſibly can be one from another, and will end in blood, unleſs we repent and reconcile theſe things, and ſtudy the things that may make for peace, and for love and concord, as we ought to do: Which the Lord grant that we may do in time, ere it be to late; So he pray<g ref="char:EOLhyphen"/>eth who is your loving friend and brother in the Lord,</p>
+            <closer>
+               <dateline>
+                  <date>Tueſday this 26. of <hi>Feb.</hi> 1649.</date>
+               </dateline>
+               <signed>Ellis Bradſhaw.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
